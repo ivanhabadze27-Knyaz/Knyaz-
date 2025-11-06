@@ -34,6 +34,6 @@ while True:
    selections.sort()
 
    print("\n 5:")
-   for i, selection in enumerate(selections, 1):
+for i, selection in enumerate(selections, 1):
    print(f"{i}. {selection}")
    
